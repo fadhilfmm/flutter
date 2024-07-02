@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "212721339920",
+    "firebase_url": "https://raspy-firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "raspy-firebase",
+    "storage_bucket": "raspy-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212721339920:android:1a0bd1de87697b1d6b4495",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_14june"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvjAA84E8Ci2FENeDk4VIvXb7gTBDti8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
